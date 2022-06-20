@@ -1,3 +1,4 @@
+/// <reference types="react" />
 declare const PromotionSpot: {
     PromotionContext: import("react").Context<import("./PromotionContext").PromotionIndexInterface>;
     JSXPromotionSpot: {
