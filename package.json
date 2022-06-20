@@ -8,7 +8,7 @@
     "build": "tsc"
   },
   "keywords": [],
-  "author": "",
+  "author": "Dom Webber <dom.webber@hotmail.com>",
   "license": "ISC",
   "devDependencies": {
     "@types/lodash.get": "^4.4.7",
@@ -26,6 +26,6 @@
   },
   "dependencies": {
     "lodash.get": "^4.4.2",
-    "react": "^18.2.0"
+    "react": "17.0.2"
   }
 }
